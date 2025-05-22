@@ -106,18 +106,18 @@ PERTEMUAN-10/
 
 ## Komponen Sistem
 
-### Model (`/model/`)
+### Model
 
 * **Train.php**: Kelola data kereta (CRUD + PDO + prepared statement)
 * **Route.php**: Kelola data rute (CRUD + PDO + prepared statement)
 * **Booking.php**: Kelola data booking (CRUD + relasi ke kereta dan rute)
 
-### ViewModel (`/viewmodel/`)
+### ViewModel 
 
 * Ngelink model ke view
 * Nanganin logic & data biar bisa dipake di tampilan
 
-### View (`/views/`)
+### View 
 
 * Form & list buat modul train, route, dan booking
 * Sudah support data binding waktu edit form
