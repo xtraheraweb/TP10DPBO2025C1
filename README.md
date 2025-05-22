@@ -123,3 +123,5 @@ PERTEMUAN-10/
 * Sudah support data binding waktu edit form
 
 ## Hasil Record
+Record --> https://drive.google.com/file/d/12nra5zSzNCpAVZK6138hydt-c4zlEaR-/view?usp=sharing 
+
