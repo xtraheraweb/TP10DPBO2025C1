@@ -10,7 +10,7 @@ Saya berjanji tidak melakukan  kecurangan sebagaimana yang sudah dispesifikasika
 ## Penjelasan Program
 
 **Train Booking System**
-Adalah aplikasi booking kereta api berbasis **PHP Native** yang menerapkan pola arsitektur **MVVM (Model - View - ViewModel)**.
+Adalah aplikasi booking kereta api berbasis **PHP** yang menerapkan pola arsitektur **Model - View - ViewModel**.
 Aplikasi ini dibuat buat manajemen data pemesanan tiket kereta, rute perjalanan, sama info kereta-nya.
 
 ### Modul Utama:
